@@ -6,7 +6,7 @@ public class MaxMInNoArr {
                 max = arr[i];
             }
         }
-        System.out.println("MAX num in  array is :" + max);
+        System.out.println("MAX num in array is :" + max);
     }
 
        public void min(int arr[]){
